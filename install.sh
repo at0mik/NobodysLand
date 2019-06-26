@@ -26,7 +26,9 @@ pip2 install pxssh
 pip2 install impacket
 pip2 install paramiko
 
-clear
+git clone https://github.com/aircrack-ng/mdk4
+cd mdk4
+make
+sudo make install
 
 clear
-
