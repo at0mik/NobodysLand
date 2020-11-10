@@ -1,3 +1,2 @@
-# NobodysLand
-Script For Network Attacks.
-NobodysLands automates all attacks against all networks.
+NobodysLand is a script created specifically for Kali Linux,
+with the purpose of testing the security of your wireless network.
